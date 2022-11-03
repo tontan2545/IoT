@@ -1,0 +1,15 @@
+# pycharm metadata
+.idea/
+
+# virtualenv
+venv/
+ENV/
+
+# env file
+.env
+
+# misc
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
